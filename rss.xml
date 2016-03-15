@@ -4,8 +4,15 @@
         <description><![CDATA[the GraphicJungle]]></description>
         <link>https://thegrid.ai/graphicjungle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 23:40:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphicjungle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://56.media.tumblr.com/tumblr_m5pt0d7Iro1qeau8ho1_1280.jpg">]]></description>
+            <link>https://thegrid.ai/graphicjungle/7cbadb28-7d98-49d6-ae89-e8cc905acde8/index.html</link>
+            <guid isPermaLink="false">7cbadb28-7d98-49d6-ae89-e8cc905acde8</guid>
+            <pubDate>Tue, 15 Mar 2016 23:40:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://56.media.tumblr.com/tumblr_m5pt0d7Iro1qeau8ho2_1280.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=c6Bkr_udado&amp;feature=youtu.be&amp;list=PLoh_dGQ3aUhvr6c5hASTc5wFkjQ3COFXi</link>
             <guid isPermaLink="false">43735e54-0916-43eb-ad9e-c98720649a5c</guid>
             <pubDate>Tue, 15 Mar 2016 23:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crítica Social]]></title>
-            <description><![CDATA[<article><h1>Crítica Social</h1><p>VIDEO ORIGINAL: https://www.youtube.com/watch?v=dRl8EIhrQjQ&feature=youtu.be</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=tMOvqsHe3g0&amp;feature=youtu.be&amp;list=PLoh_dGQ3aUhvr6c5hASTc5wFkjQ3COFXi</link>
-            <guid isPermaLink="false">87174a9d-17f3-45a2-a0f4-00adb4da6ede</guid>
-            <pubDate>Tue, 15 Mar 2016 23:16:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
