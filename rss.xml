@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GraphicJungle]]></title>
+        <description><![CDATA[GraphicJungle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 22:19:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The very 1st GraphicJungle post is dedicated to my favorite son in the world, Compte Leopold von Neumann, whom i miss forever...it's a jungle out there & without your physical presence, it's now a purely spiritual world.</p>]]></description>
+            <link>undefinedeb93f7b5-f23d-4b00-b72f-9b6161c6ad9e/index.html</link>
+            <guid isPermaLink="false">eb93f7b5-f23d-4b00-b72f-9b6161c6ad9e</guid>
+            <pubDate>Tue, 15 Mar 2016 22:19:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
