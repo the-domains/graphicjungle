@@ -4,8 +4,15 @@
         <description><![CDATA[the GraphicJungle]]></description>
         <link>https://thegrid.ai/graphicjungle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 23:28:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphicjungle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/58dfab31856945.5663fd5aa0971.jpg">]]></description>
+            <link>https://thegrid.ai/graphicjungle/536985f7-46d6-432a-b0b2-e36a1d493832/index.html</link>
+            <guid isPermaLink="false">536985f7-46d6-432a-b0b2-e36a1d493832</guid>
+            <pubDate>Tue, 15 Mar 2016 23:28:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://applelives.com/wp-content/uploads/2016/03/Apple-Loop-wallpaper-iPhone-2.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/graphicjungle/the-graphicjungler-sense-out-of-chaostm/index.html</link>
             <guid isPermaLink="false">d01873f0-5b8f-4b1a-8d90-fe39033dacf8</guid>
             <pubDate>Tue, 15 Mar 2016 22:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03b59c34-adfa-42f9-9368-510416a77288.jpg">]]></description>
-            <link>https://thegrid.ai/graphicjungle/eb93f7b5-f23d-4b00-b72f-9b6161c6ad9e/index.html</link>
-            <guid isPermaLink="false">eb93f7b5-f23d-4b00-b72f-9b6161c6ad9e</guid>
-            <pubDate>Tue, 15 Mar 2016 22:40:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
