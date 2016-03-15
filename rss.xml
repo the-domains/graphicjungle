@@ -4,8 +4,15 @@
         <description><![CDATA[the GraphicJungle]]></description>
         <link>https://thegrid.ai/graphicjungle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 23:31:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphicjungle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3d1dfa31856945.56ab7a94c9044.jpg">]]></description>
+            <link>https://www.behance.net/gallery/31856945/The-letters-in-the-cities</link>
+            <guid isPermaLink="false">5d01b559-9f96-466c-8038-b800d738a46d</guid>
+            <pubDate>Tue, 15 Mar 2016 23:31:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/66f34c31856945.56646c6b76af7.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/graphicjungle/compte-leopold-von-neumann-the-thinker/index.html</link>
             <guid isPermaLink="false">dc7e9540-ca5c-47a2-9c79-24884844f577</guid>
             <pubDate>Tue, 15 Mar 2016 22:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c1226e1-a65f-428c-95f4-7f2fcfcf31a0.jpg">]]></description>
-            <link>https://thegrid.ai/graphicjungle/compte-leopold-von-neumann-is-the-worlds-best-son-an-oes/index.html</link>
-            <guid isPermaLink="false">ced81798-617c-4674-841d-5f2eaeda12eb</guid>
-            <pubDate>Tue, 15 Mar 2016 22:53:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
