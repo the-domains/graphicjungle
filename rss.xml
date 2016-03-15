@@ -4,8 +4,15 @@
         <description><![CDATA[the GraphicJungle]]></description>
         <link>https://thegrid.ai/graphicjungle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 23:40:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphicjungle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/b5/12/f3/b512f358fe43a45af0e13e946633042d.jpg">]]></description>
+            <link>https://thegrid.ai/graphicjungle/344ad179-e433-4d57-ae8e-d2540e030796/index.html</link>
+            <guid isPermaLink="false">344ad179-e433-4d57-ae8e-d2540e030796</guid>
+            <pubDate>Tue, 15 Mar 2016 23:40:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://56.media.tumblr.com/tumblr_m5pt0d7Iro1qeau8ho1_1280.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=t7Xr3AsBEK4&amp;feature=youtu.be&amp;list=PLoh_dGQ3aUhvr6c5hASTc5wFkjQ3COFXi</link>
             <guid isPermaLink="false">1d52e09c-f2ae-4c56-8d37-b5e44489cbec</guid>
             <pubDate>Tue, 15 Mar 2016 23:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Innovation of Loneliness]]></title>
-            <description><![CDATA[<article><h1>The Innovation of Loneliness</h1><p>What is the connection between Social Networks and Being Lonely? Quoting the words of Sherry Turkle from her TED talk - Connected, But Alone. (http://www.ted.com/talks/sherry_turkle_alone_together.html) Also Based on Dr. Yair Amichai-Hamburgers hebrew article -The Invention of Loneliness. Script, Design & Animation: Shimi Cohen Final Project at Shenkar College of Engineering and Design.</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=c6Bkr_udado&amp;feature=youtu.be&amp;list=PLoh_dGQ3aUhvr6c5hASTc5wFkjQ3COFXi</link>
-            <guid isPermaLink="false">43735e54-0916-43eb-ad9e-c98720649a5c</guid>
-            <pubDate>Tue, 15 Mar 2016 23:17:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
