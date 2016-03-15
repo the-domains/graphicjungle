@@ -1,0 +1,28 @@
+name: GraphicJungle
+favicon: null
+layout_spectrum: 0.9045074426103383
+typography_spectrum: 0.056737670209258795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.13001436460763216
+  lightness: 0.0036575307603925467
+  saturation: 0.7884869582485408
+  rhythmicContrast: 0.34346951893530786
+purpose: []
