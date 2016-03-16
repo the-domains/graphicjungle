@@ -4,8 +4,15 @@
         <description><![CDATA[the GraphicJungle]]></description>
         <link>https://thegrid.ai/graphicjungle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 10:10:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphicjungle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Loving Vincent - Trailer 2016 (web)]]></title>
+            <description><![CDATA[<article><h1>Loving Vincent - Trailer 2016 (web)</h1><p>Trailer from the upcoming film "Loving Vincent" by Breakthru Films. Obtained from the official website: http://join.lovingvincent.com/ 12 oil paintings per second, all done by over 100 painters trained in the same style. I scaled this up from the original so I could upload it to YouTube while preserving the quality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96d6b73000e9b2f7213302c058a0e97eb289ea31.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=47h6pQ6StCk</link>
+            <guid isPermaLink="false">8e6f630d-f17b-42e1-8cf7-4c16b5de6cde</guid>
+            <pubDate>Wed, 16 Mar 2016 10:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/b5/12/f3/b512f358fe43a45af0e13e946633042d.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/graphicjungle/1f8f3787-d976-463b-a11a-d70d4a512b12/index.html</link>
             <guid isPermaLink="false">1f8f3787-d976-463b-a11a-d70d4a512b12</guid>
             <pubDate>Tue, 15 Mar 2016 23:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sherry Turkle: Connected, but alone?]]></title>
-            <description><![CDATA[<article><h1>Sherry Turkle: Connected, but alone?</h1><p>http://www.ted.com As we expect more from technology, do we expect less from each other? Sherry Turkle studies how our devices and online personas are redefining human connection and communication -- and asks us to think deeply about the new kinds of connection we want to have.</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=t7Xr3AsBEK4&amp;feature=youtu.be&amp;list=PLoh_dGQ3aUhvr6c5hASTc5wFkjQ3COFXi</link>
-            <guid isPermaLink="false">1d52e09c-f2ae-4c56-8d37-b5e44489cbec</guid>
-            <pubDate>Tue, 15 Mar 2016 23:19:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
