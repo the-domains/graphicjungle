@@ -4,8 +4,15 @@
         <description><![CDATA[the GraphicJungle]]></description>
         <link>https://thegrid.ai/graphicjungle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 10:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 10:15:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphicjungle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/86/c8/e9/86c8e956a3cb9b933b347783a138df52.jpg">]]></description>
+            <link>https://thegrid.ai/graphicjungle/a2fd2857-6334-42ce-861f-3f6605a374f2/index.html</link>
+            <guid isPermaLink="false">a2fd2857-6334-42ce-861f-3f6605a374f2</guid>
+            <pubDate>Wed, 16 Mar 2016 10:15:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://lh3.googleusercontent.com/dshi5XpHlFSJxoFhGVYi8uiR00_rzyrNGu7jma80p18RcxwNPL79dwmrRejzvo1wZOpc8w=w10240-h5760-rw-no">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.behance.net/gallery/31856945/The-letters-in-the-cities</link>
             <guid isPermaLink="false">5d01b559-9f96-466c-8038-b800d738a46d</guid>
             <pubDate>Tue, 15 Mar 2016 23:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/66f34c31856945.56646c6b76af7.jpg">]]></description>
-            <link>https://www.behance.net/gallery/31856945/The-letters-in-the-cities</link>
-            <guid isPermaLink="false">ba0a635d-55c2-4224-a65a-6acfa7749e1b</guid>
-            <pubDate>Tue, 15 Mar 2016 23:30:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
