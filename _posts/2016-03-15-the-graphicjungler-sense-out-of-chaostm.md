@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: The GraphicJungle® - sense out of chaos™
-datePublished: '2016-03-15T22:39:13.023Z'
-dateModified: '2016-03-15T22:39:00.417Z'
+datePublished: '2016-03-18T22:20:38.423Z'
+dateModified: '2016-03-18T22:20:27.344Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-15-the-graphicjungler-sense-out-of-chaostm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-the-graphicjungler-sense-out-of-chaostm.md
-published: true
 url: the-graphicjungler-sense-out-of-chaostm/index.html
 _type: Article
 
