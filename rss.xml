@@ -4,8 +4,15 @@
         <description><![CDATA[the GraphicJungle]]></description>
         <link>https://thegrid.ai/graphicjungle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 17:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 22:20:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphicjungle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c102ee95-2db9-4a14-9bc9-5f958b328e37.jpg">]]></description>
+            <link>https://thegrid.ai/graphicjungle/the-graphicjungler-sense-out-of-chaostm/index.html</link>
+            <guid isPermaLink="false">d01873f0-5b8f-4b1a-8d90-fe39033dacf8</guid>
+            <pubDate>Fri, 18 Mar 2016 22:20:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/a8/38/89/a838896f50c4b71b8ed872e212efcc4c.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=47h6pQ6StCk</link>
             <guid isPermaLink="false">8e6f630d-f17b-42e1-8cf7-4c16b5de6cde</guid>
             <pubDate>Wed, 16 Mar 2016 17:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/b5/12/f3/b512f358fe43a45af0e13e946633042d.jpg">]]></description>
-            <link>https://thegrid.ai/graphicjungle/344ad179-e433-4d57-ae8e-d2540e030796/index.html</link>
-            <guid isPermaLink="false">344ad179-e433-4d57-ae8e-d2540e030796</guid>
-            <pubDate>Tue, 15 Mar 2016 23:40:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
