@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[the GraphicJungle]]></title>
         <description><![CDATA[the GraphicJungle]]></description>
-        <link>https://thegrid.ai/graphicjungle/</link>
+        <link>http://graphicjungle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 22:23:32 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/graphicjungle/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 18:26:10 GMT</lastBuildDate>
+        <atom:link href="http://graphicjungle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BoomGoo]]></title>
+            <description><![CDATA[<article><h1>BoomGoo</h1><p>BoomGoo is the vibrant synergetic global creative market, whether you seek inspiration, consume or sell.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64e94f4e6574ca322046b106577d0f8773f2cde0.jpg"></article>]]></description>
+            <link>http://graphicjungle.com/boomgoo/index.html</link>
+            <guid isPermaLink="false">a5d823e7-1e25-4b9e-af4e-783a217ad90f</guid>
+            <pubDate>Mon, 25 Apr 2016 18:25:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loving Vincent - Trailer 2016 (web)]]></title>
+            <description><![CDATA[<article><h1>Loving Vincent - Trailer 2016 (web)</h1><p>▶ fascinating animation: ••"Loving Vincent" 2016••</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96d6b73000e9b2f7213302c058a0e97eb289ea31.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=47h6pQ6StCk</link>
+            <guid isPermaLink="false">8e6f630d-f17b-42e1-8cf7-4c16b5de6cde</guid>
+            <pubDate>Wed, 16 Mar 2016 17:31:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/a8/38/89/a838896f50c4b71b8ed872e212efcc4c.jpg">]]></description>
@@ -61,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=qo7cjPi8Xvw</link>
             <guid isPermaLink="false">0297b16e-8e77-4b24-a7d5-52c083bb3a59</guid>
             <pubDate>Wed, 16 Mar 2016 10:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loving Vincent - Trailer 2016 (web)]]></title>
-            <description><![CDATA[<article><h1>Loving Vincent - Trailer 2016 (web)</h1><p>▶ fascinating animation: ••"Loving Vincent" 2016••</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96d6b73000e9b2f7213302c058a0e97eb289ea31.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=47h6pQ6StCk</link>
-            <guid isPermaLink="false">8e6f630d-f17b-42e1-8cf7-4c16b5de6cde</guid>
-            <pubDate>Wed, 16 Mar 2016 17:31:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
